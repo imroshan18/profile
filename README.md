@@ -12,17 +12,16 @@
 
 <p align="center">
 
-  <!-- Instead of “Location” -->
+
   <img src="https://img.shields.io/badge/📌_Based_In-India-00C4FF?style=for-the-badge&labelColor=0a0a23&color=00C4FF" />
 
-  <!-- Instead of “Focus” -->
+
   <img src="https://img.shields.io/badge/🎓_Domain-Data_Analytics_%7C_AI_%7C_MLOps-7C3AED?style=for-the-badge&labelColor=0a0a23&color=7C3AED" />
 
-  <!-- Instead of “Status” -->
   <img src="https://img.shields.io/badge/⚡_Current_Mode-Building_%26_Improving-10B981?style=for-the-badge&labelColor=0a0a23&color=10B981" />
 
-  <!-- Instead of “Profile Views” -->
-  <img src="https://img.shields.io/badge/👀_Visitors-Tracking_Live-38BDF8?style=for-the-badge&labelColor=0a0a23&logo=github" />
+
+ <img src="https://komarev.com/ghpvc/?username=imroshan18&label=👀%20Visitors&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -33,7 +32,7 @@
  👋 Hey there, I'm **Roshan Paul**
 
 - 🎓 CSE 3rd year undergraduate student at **Lovely Professional University**  
-- 📌 Passionate about **Business Analytics, ML, and MLOps**  
+- 📌 Passionate about **data Analytics, ML, and MLOps**  
 - 🔍 Love exploring how data can drive real-world decisions  
 - 🧠 Currently focused on **automation, model workflows, and data pipelines**  
 - 🛠️ Enjoy turning messy data into clear, actionable insights  
